@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\bin\Debug\net7.0\Repositories.deps.json
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\bin\Debug\net7.0\Repositories.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\bin\Debug\net7.0\Repositories.dll
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\bin\Debug\net7.0\Repositories.pdb
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\bin\Debug\net7.0\Entities.dll
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\bin\Debug\net7.0\Entities.pdb
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.dll
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.pdb
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\Repositories.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Week11_YazilimGereksinim_Extensions_GlobalHataAyaklama\ProductWithDb\Repositories\obj\Debug\net7.0\ref\Repositories.dll
